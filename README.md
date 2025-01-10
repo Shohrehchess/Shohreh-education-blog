@@ -4,12 +4,14 @@ A blog website designed to provide ideas and resources for those who are just ge
 
 ## install
 
-You need Node to build this site. In the root run:
+You will need Node to build this site. In the root run:
+
 ```
 npm install
 ```
 
 ## build
+
 ```
 npm run build
 ```
